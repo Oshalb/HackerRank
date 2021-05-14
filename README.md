@@ -8,4 +8,5 @@
 8) Birthday Cake Candles - https://www.hackerrank.com/challenges/birthday-cake-candles/problem  
 9) Time Conversion - https://www.hackerrank.com/challenges/time-conversion/problem  
 10) Grading Students - https://www.hackerrank.com/challenges/grading/problem  
-11) Apple and Orange - https://www.hackerrank.com/challenges/apple-and-orange/problem
+11) Apple and Orange - https://www.hackerrank.com/challenges/apple-and-orange/problem  
+12) Number Line Jumps - https://www.hackerrank.com/challenges/kangaroo/problem
