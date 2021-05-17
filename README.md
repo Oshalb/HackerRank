@@ -12,4 +12,5 @@
 12) Number Line Jumps - https://www.hackerrank.com/challenges/kangaroo/problem  
 13) Between Two Sets - https://www.hackerrank.com/challenges/between-two-sets/problem  
 14) Breaking the Records - https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem  
-15) Divisible Sum Pairs - https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
+15) Divisible Sum Pairs - https://www.hackerrank.com/challenges/divisible-sum-pairs/problem  
+16) Migratory Birds - https://www.hackerrank.com/challenges/migratory-birds/problem
