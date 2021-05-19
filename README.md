@@ -13,4 +13,5 @@
 13) Between Two Sets - https://www.hackerrank.com/challenges/between-two-sets/problem  
 14) Breaking the Records - https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem  
 15) Divisible Sum Pairs - https://www.hackerrank.com/challenges/divisible-sum-pairs/problem  
-16) Migratory Birds - https://www.hackerrank.com/challenges/migratory-birds/problem
+16) Migratory Birds - https://www.hackerrank.com/challenges/migratory-birds/problem  
+17) Bill Division - https://www.hackerrank.com/challenges/bon-appetit/problem
