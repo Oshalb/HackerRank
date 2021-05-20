@@ -15,4 +15,5 @@
 15) Divisible Sum Pairs - https://www.hackerrank.com/challenges/divisible-sum-pairs/problem  
 16) Migratory Birds - https://www.hackerrank.com/challenges/migratory-birds/problem  
 17) Bill Division - https://www.hackerrank.com/challenges/bon-appetit/problem  
-18) Cats and a Mouse - https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
+18) Cats and a Mouse - https://www.hackerrank.com/challenges/cats-and-a-mouse/problem  
+19) The Hurdle Race - https://www.hackerrank.com/challenges/the-hurdle-race/problem
