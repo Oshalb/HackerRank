@@ -17,4 +17,5 @@
 17) Bill Division - https://www.hackerrank.com/challenges/bon-appetit/problem  
 18) Cats and a Mouse - https://www.hackerrank.com/challenges/cats-and-a-mouse/problem  
 19) The Hurdle Race - https://www.hackerrank.com/challenges/the-hurdle-race/problem  
-20) Utopian Tree - https://www.hackerrank.com/challenges/utopian-tree/problem
+20) Utopian Tree - https://www.hackerrank.com/challenges/utopian-tree/problem  
+21) Halloween Party - https://www.hackerrank.com/challenges/halloween-party/problem
