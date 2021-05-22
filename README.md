@@ -20,4 +20,5 @@
 20) Utopian Tree - https://www.hackerrank.com/challenges/utopian-tree/problem  
 21) Halloween Party - https://www.hackerrank.com/challenges/halloween-party/problem  
 22) Counting Valleys - https://www.hackerrank.com/challenges/counting-valleys/problem  
-23) Designer PDF Viewer - https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
+23) Designer PDF Viewer - https://www.hackerrank.com/challenges/designer-pdf-viewer/problem  
+24) Angry Professor - https://www.hackerrank.com/challenges/angry-professor/problem
