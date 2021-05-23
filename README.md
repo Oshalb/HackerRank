@@ -22,4 +22,5 @@
 22) Counting Valleys - https://www.hackerrank.com/challenges/counting-valleys/problem  
 23) Designer PDF Viewer - https://www.hackerrank.com/challenges/designer-pdf-viewer/problem  
 24) Angry Professor - https://www.hackerrank.com/challenges/angry-professor/problem  
-25) Beautiful Days at the Movies - https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
+25) Beautiful Days at the Movies - https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem  
+26) Viral Advertising - https://www.hackerrank.com/challenges/strange-advertising/problem
