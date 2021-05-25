@@ -26,4 +26,5 @@
 26) Viral Advertising - https://www.hackerrank.com/challenges/strange-advertising/problem  
 27) Jumping on the Clouds: Revisited - https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem  
 28) CamelCase - https://www.hackerrank.com/challenges/camelcase/problem  
-29) Subarray Division - https://www.hackerrank.com/challenges/the-birthday-bar/problem
+29) Subarray Division - https://www.hackerrank.com/challenges/the-birthday-bar/problem  
+30) Find Digits - https://www.hackerrank.com/challenges/find-digits/problem
