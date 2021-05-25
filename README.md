@@ -25,4 +25,4 @@
 25) Beautiful Days at the Movies - https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem  
 26) Viral Advertising - https://www.hackerrank.com/challenges/strange-advertising/problem  
 27) Jumping on the Clouds: Revisited - https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem  
-30) CamelCase - https://www.hackerrank.com/challenges/camelcase/problem
+28) CamelCase - https://www.hackerrank.com/challenges/camelcase/problem
