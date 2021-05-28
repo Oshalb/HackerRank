@@ -33,3 +33,4 @@
 33) Minimum Distances - https://www.hackerrank.com/challenges/minimum-distances/problem  
 34) Equalize the Array - https://www.hackerrank.com/challenges/equality-in-a-array/problem  
 35) Sales by Match - https://www.hackerrank.com/challenges/sock-merchant/problem
+36) Electronic Shop - https://www.hackerrank.com/challenges/electronics-shop/problem
