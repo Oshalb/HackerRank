@@ -31,4 +31,5 @@
 31) Service Lane - https://www.hackerrank.com/challenges/service-lane/problem  
 32) Cut the Sticks - https://www.hackerrank.com/challenges/cut-the-sticks/problem  
 33) Minimum Distances - https://www.hackerrank.com/challenges/minimum-distances/problem  
-34) Equalize the Array - https://www.hackerrank.com/challenges/equality-in-a-array/problem
+34) Equalize the Array - https://www.hackerrank.com/challenges/equality-in-a-array/problem  
+35) Sales by Match - https://www.hackerrank.com/challenges/sock-merchant/problem
