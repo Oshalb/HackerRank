@@ -35,4 +35,5 @@
 35) Sales by Match - https://www.hackerrank.com/challenges/sock-merchant/problem
 36) Electronic Shop - https://www.hackerrank.com/challenges/electronics-shop/problem  
 37) Jumping on Clouds - https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem  
-38) Drawing Book - https://www.hackerrank.com/challenges/drawing-book/editorial
+38) Drawing Book - https://www.hackerrank.com/challenges/drawing-book/editorial  
+39) Picking Numbers - https://www.hackerrank.com/challenges/picking-numbers/problem
