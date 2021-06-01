@@ -3,7 +3,7 @@
 def count_special_problems(k, arr):
     pages = []
     for i in arr:
-        for j in range(0, i+1):
+        for j in range(1, i+1):
             pages.append(j)
     page = 0
     lp = len(pages)
