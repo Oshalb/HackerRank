@@ -37,4 +37,5 @@
 37) Jumping on Clouds - https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem  
 38) Drawing Book - https://www.hackerrank.com/challenges/drawing-book/editorial  
 39) Picking Numbers - https://www.hackerrank.com/challenges/picking-numbers/problem  
-40) Lisa's Workbook - https://www.hackerrank.com/challenges/lisa-workbook/problem
+40) Lisa's Workbook - https://www.hackerrank.com/challenges/lisa-workbook/problem  
+41) Chocolate Feast - https://www.hackerrank.com/challenges/chocolate-feast/problem
