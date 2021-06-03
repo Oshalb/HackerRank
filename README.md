@@ -39,4 +39,5 @@
 39) Picking Numbers - https://www.hackerrank.com/challenges/picking-numbers/problem  
 40) Lisa's Workbook - https://www.hackerrank.com/challenges/lisa-workbook/problem  
 41) Chocolate Feast - https://www.hackerrank.com/challenges/chocolate-feast/problem  
-42) Beautiful Triplets - https://www.hackerrank.com/challenges/beautiful-triplets/problem
+42) Beautiful Triplets - https://www.hackerrank.com/challenges/beautiful-triplets/problem  
+43) Fari Rations - https://www.hackerrank.com/challenges/fair-rations/problem
