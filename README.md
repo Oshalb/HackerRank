@@ -40,4 +40,5 @@
 40) Lisa's Workbook - https://www.hackerrank.com/challenges/lisa-workbook/problem  
 41) Chocolate Feast - https://www.hackerrank.com/challenges/chocolate-feast/problem  
 42) Beautiful Triplets - https://www.hackerrank.com/challenges/beautiful-triplets/problem  
-43) Fari Rations - https://www.hackerrank.com/challenges/fair-rations/problem
+43) Fari Rations - https://www.hackerrank.com/challenges/fair-rations/problem  
+44) Save the Prisoner! - https://www.hackerrank.com/challenges/save-the-prisoner/problem
