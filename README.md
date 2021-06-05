@@ -41,4 +41,5 @@
 41) Chocolate Feast - https://www.hackerrank.com/challenges/chocolate-feast/problem  
 42) Beautiful Triplets - https://www.hackerrank.com/challenges/beautiful-triplets/problem  
 43) Fari Rations - https://www.hackerrank.com/challenges/fair-rations/problem  
-44) Save the Prisoner! - https://www.hackerrank.com/challenges/save-the-prisoner/problem
+44) Save the Prisoner! - https://www.hackerrank.com/challenges/save-the-prisoner/problem  
+45) Circular Array Rotation - https://www.hackerrank.com/challenges/circular-array-rotation/copy-from/217126396
