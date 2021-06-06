@@ -43,4 +43,5 @@
 43) Fari Rations - https://www.hackerrank.com/challenges/fair-rations/problem  
 44) Save the Prisoner! - https://www.hackerrank.com/challenges/save-the-prisoner/problem  
 45) Circular Array Rotation -https://www.hackerrank.com/challenges/circular-array-rotation/problem  
-46) Library Fine - https://www.hackerrank.com/challenges/library-fine/problem
+46) Library Fine - https://www.hackerrank.com/challenges/library-fine/problem  
+47) Sherlock and Squares - https://www.hackerrank.com/challenges/sherlock-and-squares/problem
