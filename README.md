@@ -45,4 +45,5 @@
 45) Circular Array Rotation -https://www.hackerrank.com/challenges/circular-array-rotation/problem  
 46) Library Fine - https://www.hackerrank.com/challenges/library-fine/problem  
 47) Sherlock and Squares - https://www.hackerrank.com/challenges/sherlock-and-squares/problem  
-48) Repeated String - https://www.hackerrank.com/challenges/repeated-string/problem
+48) Repeated String - https://www.hackerrank.com/challenges/repeated-string/problem  
+49) Taum and B'day - https://www.hackerrank.com/challenges/taum-and-bday/problem
