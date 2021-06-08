@@ -48,4 +48,5 @@
 48) Repeated String - https://www.hackerrank.com/challenges/repeated-string/problem  
 49) Taum and B'day - https://www.hackerrank.com/challenges/taum-and-bday/problem  
 50) Halloween Sale - https://www.hackerrank.com/challenges/halloween-sale/problem  
-51) Cavity Map - https://www.hackerrank.com/challenges/cavity-map/problem
+51) Cavity Map - https://www.hackerrank.com/challenges/cavity-map/problem  
+52) Mars Exploration - https://www.hackerrank.com/challenges/mars-exploration/problem
