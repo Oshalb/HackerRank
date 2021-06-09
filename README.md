@@ -49,4 +49,5 @@
 49) Taum and B'day - https://www.hackerrank.com/challenges/taum-and-bday/problem  
 50) Halloween Sale - https://www.hackerrank.com/challenges/halloween-sale/problem  
 51) Cavity Map - https://www.hackerrank.com/challenges/cavity-map/problem  
-52) Mars Exploration - https://www.hackerrank.com/challenges/mars-exploration/problem
+52) Mars Exploration - https://www.hackerrank.com/challenges/mars-exploration/problem  
+53) Sequence Equation - https://www.hackerrank.com/challenges/permutation-equation/problem
