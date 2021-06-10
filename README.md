@@ -52,4 +52,5 @@
 52) Mars Exploration - https://www.hackerrank.com/challenges/mars-exploration/problem  
 53) Sequence Equation - https://www.hackerrank.com/challenges/permutation-equation/problem  
 54) Non-Divisible Subset - https://www.hackerrank.com/challenges/non-divisible-subset/problem  
-55) Manasa and Stones - https://www.hackerrank.com/challenges/manasa-and-stones/problem
+55) Manasa and Stones - https://www.hackerrank.com/challenges/manasa-and-stones/problem  
+56) Modified Kaprekar Numbers - https://www.hackerrank.com/challenges/kaprekar-numbers/problem
