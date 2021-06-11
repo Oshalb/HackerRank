@@ -54,4 +54,5 @@
 54) Non-Divisible Subset - https://www.hackerrank.com/challenges/non-divisible-subset/problem  
 55) Manasa and Stones - https://www.hackerrank.com/challenges/manasa-and-stones/problem  
 56) Modified Kaprekar Numbers - https://www.hackerrank.com/challenges/kaprekar-numbers/problem  
-57) Insertion Sort Part 1 - https://www.hackerrank.com/challenges/insertionsort1/problem
+57) Insertion Sort Part 1 - https://www.hackerrank.com/challenges/insertionsort1/problem  
+58) Insertion Sort Part 2 - https://www.hackerrank.com/challenges/insertionsort2/problem
