@@ -57,4 +57,5 @@
 57) Insertion Sort Part 1 - https://www.hackerrank.com/challenges/insertionsort1/problem  
 58) Insertion Sort Part 2 - https://www.hackerrank.com/challenges/insertionsort2/problem  
 59) ACM ICPC Team - https://www.hackerrank.com/challenges/acm-icpc-team/problem  
-60) Happy Ladybugs - https://www.hackerrank.com/challenges/happy-ladybugs/problem
+60) Happy Ladybugs - https://www.hackerrank.com/challenges/happy-ladybugs/problem  
+61) Strange Counter - https://www.hackerrank.com/challenges/strange-code/problem
