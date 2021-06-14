@@ -59,4 +59,5 @@
 59) ACM ICPC Team - https://www.hackerrank.com/challenges/acm-icpc-team/problem  
 60) Happy Ladybugs - https://www.hackerrank.com/challenges/happy-ladybugs/problem  
 61) Strange Counter - https://www.hackerrank.com/challenges/strange-code/problem  
-62) Running time of Algorithm - https://www.hackerrank.com/challenges/runningtime/problem
+62) Running time of Algorithm - https://www.hackerrank.com/challenges/runningtime/problem  
+63) HackerRank in a String! - https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem
