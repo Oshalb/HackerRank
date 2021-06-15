@@ -61,4 +61,6 @@
 61) Strange Counter - https://www.hackerrank.com/challenges/strange-code/problem  
 62) Running time of Algorithm - https://www.hackerrank.com/challenges/runningtime/problem  
 63) HackerRank in a String! - https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem  
-64) Caesar Cipher - https://www.hackerrank.com/challenges/caesar-cipher-1/problem
+64) Caesar Cipher - https://www.hackerrank.com/challenges/caesar-cipher-1/problem  
+65) Quicksort - https://www.hackerrank.com/challenges/quicksort2/problem  
+66) Strong Password - https://www.hackerrank.com/challenges/strong-password/problem  
