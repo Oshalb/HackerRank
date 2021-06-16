@@ -64,3 +64,4 @@
 64) Caesar Cipher - https://www.hackerrank.com/challenges/caesar-cipher-1/problem  
 65) Quicksort - https://www.hackerrank.com/challenges/quicksort2/problem  
 66) Strong Password - https://www.hackerrank.com/challenges/strong-password/problem  
+67) Super Reduced String - https://www.hackerrank.com/challenges/reduced-string/problem
