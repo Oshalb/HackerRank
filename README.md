@@ -66,4 +66,5 @@
 66) Strong Password - https://www.hackerrank.com/challenges/strong-password/problem  
 67) Super Reduced String - https://www.hackerrank.com/challenges/reduced-string/problem  
 68) Flatland Space Station - https://www.hackerrank.com/challenges/flatland-space-stations/problem  
-69) Pangrams - https://www.hackerrank.com/challenges/pangrams/problem
+69) Pangrams - https://www.hackerrank.com/challenges/pangrams/problem  
+70) Funny String - https://www.hackerrank.com/challenges/funny-string/problem
