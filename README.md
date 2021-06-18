@@ -67,4 +67,5 @@
 67) Super Reduced String - https://www.hackerrank.com/challenges/reduced-string/problem  
 68) Flatland Space Station - https://www.hackerrank.com/challenges/flatland-space-stations/problem  
 69) Pangrams - https://www.hackerrank.com/challenges/pangrams/problem  
-70) Funny String - https://www.hackerrank.com/challenges/funny-string/problem
+70) Funny String - https://www.hackerrank.com/challenges/funny-string/problem  
+71) Two Characters - https://www.hackerrank.com/challenges/two-characters/problem
