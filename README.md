@@ -72,4 +72,5 @@
 72) Weighted Uniform Strings - https://www.hackerrank.com/challenges/weighted-uniform-string/problem  
 73) Seperate the Number - https://www.hackerrank.com/challenges/separate-the-numbers/problem  
 74) Append and Delete - https://www.hackerrank.com/challenges/append-and-delete/problem  
-75) Day of the Programmer - https://www.hackerrank.com/challenges/day-of-the-programmer/problem
+75) Day of the Programmer - https://www.hackerrank.com/challenges/day-of-the-programmer/problem  
+76) Gemstones - https://www.hackerrank.com/challenges/gem-stones/problem
