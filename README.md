@@ -75,4 +75,5 @@
 75) Day of the Programmer - https://www.hackerrank.com/challenges/day-of-the-programmer/problem  
 76) Gemstones - https://www.hackerrank.com/challenges/gem-stones/problem  
 77) Bigger is Greater - https://www.hackerrank.com/challenges/bigger-is-greater/problem  
-78) Recursive Digit Sum - https://www.hackerrank.com/challenges/recursive-digit-sum/problem
+78) Recursive Digit Sum - https://www.hackerrank.com/challenges/recursive-digit-sum/problem  
+79) Max Min - https://www.hackerrank.com/challenges/angry-children/problem
