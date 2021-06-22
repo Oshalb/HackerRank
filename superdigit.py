@@ -1,4 +1,7 @@
 # Recursive Digit Sum
+# n, k = map(int, input().split())
+# x = n * k % 9
+# print(x if x else 9)
 
 def check_digit(s, n):
     d = []
