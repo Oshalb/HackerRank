@@ -76,4 +76,5 @@
 76) Gemstones - https://www.hackerrank.com/challenges/gem-stones/problem  
 77) Bigger is Greater - https://www.hackerrank.com/challenges/bigger-is-greater/problem  
 78) Recursive Digit Sum - https://www.hackerrank.com/challenges/recursive-digit-sum/problem  
-79) Max Min - https://www.hackerrank.com/challenges/angry-children/problem
+79) Max Min - https://www.hackerrank.com/challenges/angry-children/problem  
+80) Pairs - https://www.hackerrank.com/challenges/pairs/problem
