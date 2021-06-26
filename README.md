@@ -81,4 +81,5 @@
 81) Alternating Characters - https://www.hackerrank.com/challenges/alternating-characters/problem  
 82) Beautiful Binary String - https://www.hackerrank.com/challenges/beautiful-binary-string/problem  
 83) Closest Numbers - https://www.hackerrank.com/challenges/closest-numbers/problem  
-84) The Love-Letter Mystery - https://www.hackerrank.com/challenges/the-love-letter-mystery/problem
+84) The Love-Letter Mystery - https://www.hackerrank.com/challenges/the-love-letter-mystery/problem  
+85) 3D Surface Area - https://www.hackerrank.com/challenges/3d-surface-area/problem
