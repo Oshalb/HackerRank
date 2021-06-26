@@ -80,4 +80,5 @@
 80) Pairs - https://www.hackerrank.com/challenges/pairs/problem  
 81) Alternating Characters - https://www.hackerrank.com/challenges/alternating-characters/problem  
 82) Beautiful Binary String - https://www.hackerrank.com/challenges/beautiful-binary-string/problem  
-83) Closest Numbers - https://www.hackerrank.com/challenges/closest-numbers/problem
+83) Closest Numbers - https://www.hackerrank.com/challenges/closest-numbers/problem  
+84) The Love-Letter Mystery - https://www.hackerrank.com/challenges/the-love-letter-mystery/problem
