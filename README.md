@@ -83,4 +83,5 @@
 83) Closest Numbers - https://www.hackerrank.com/challenges/closest-numbers/problem  
 84) The Love-Letter Mystery - https://www.hackerrank.com/challenges/the-love-letter-mystery/problem  
 85) 3D Surface Area - https://www.hackerrank.com/challenges/3d-surface-area/problem  
-86) Find the Median - https://www.hackerrank.com/challenges/find-the-median/problem
+86) Find the Median - https://www.hackerrank.com/challenges/find-the-median/problem  
+87) Absolute Permutation - https://www.hackerrank.com/challenges/absolute-permutation/problem
