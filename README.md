@@ -86,4 +86,5 @@
 86) Find the Median - https://www.hackerrank.com/challenges/find-the-median/problem  
 87) Absolute Permutation - https://www.hackerrank.com/challenges/absolute-permutation/problem  
 88) String Construction - https://www.hackerrank.com/challenges/string-construction/problem  
-89) Making Anagrams - https://www.hackerrank.com/challenges/making-anagrams/problem
+89) Making Anagrams - https://www.hackerrank.com/challenges/making-anagrams/problem  
+90) Ice Cream Parlor - https://www.hackerrank.com/challenges/icecream-parlor/problem
