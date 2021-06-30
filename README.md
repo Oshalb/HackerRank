@@ -87,4 +87,5 @@
 87) Absolute Permutation - https://www.hackerrank.com/challenges/absolute-permutation/problem  
 88) String Construction - https://www.hackerrank.com/challenges/string-construction/problem  
 89) Making Anagrams - https://www.hackerrank.com/challenges/making-anagrams/problem  
-90) Ice Cream Parlor - https://www.hackerrank.com/challenges/icecream-parlor/problem
+90) Ice Cream Parlor - https://www.hackerrank.com/challenges/icecream-parlor/problem  
+91) The Bomberman Game - https://www.hackerrank.com/challenges/bomber-man/problem
