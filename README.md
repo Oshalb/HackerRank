@@ -90,4 +90,5 @@
 90) Ice Cream Parlor - https://www.hackerrank.com/challenges/icecream-parlor/problem  
 91) The Bomberman Game - https://www.hackerrank.com/challenges/bomber-man/problem  
 92) Marc's Cakewalk - https://www.hackerrank.com/challenges/marcs-cakewalk/problem  
-93) Anagram - https://www.hackerrank.com/challenges/anagram/problem
+93) Anagram - https://www.hackerrank.com/challenges/anagram/problem  
+94) Missing Numbers - https://www.hackerrank.com/challenges/missing-numbers/problem
