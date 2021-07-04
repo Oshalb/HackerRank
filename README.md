@@ -91,4 +91,5 @@
 91) The Bomberman Game - https://www.hackerrank.com/challenges/bomber-man/problem  
 92) Marc's Cakewalk - https://www.hackerrank.com/challenges/marcs-cakewalk/problem  
 93) Anagram - https://www.hackerrank.com/challenges/anagram/problem  
-94) Missing Numbers - https://www.hackerrank.com/challenges/missing-numbers/problem
+94) Missing Numbers - https://www.hackerrank.com/challenges/missing-numbers/problem  
+95) Sherlock and Array - https://www.hackerrank.com/challenges/sherlock-and-array/problem
