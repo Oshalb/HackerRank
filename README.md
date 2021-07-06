@@ -95,4 +95,5 @@
 95) Sherlock and Array - https://www.hackerrank.com/challenges/sherlock-and-array/problem  
 96) Big Sorting - https://www.hackerrank.com/challenges/big-sorting/problem  
 97) Minimum Absolute Difference in an Array - https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem  
-98) Luck Balance - https://www.hackerrank.com/challenges/luck-balance/problem
+98) Luck Balance - https://www.hackerrank.com/challenges/luck-balance/problem  
+100) Grid Challenge - https://www.hackerrank.com/challenges/grid-challenge/problem
