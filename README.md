@@ -97,4 +97,5 @@
 97) Minimum Absolute Difference in an Array - https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem  
 98) Luck Balance - https://www.hackerrank.com/challenges/luck-balance/problem  
 99) Grid Challenge - https://www.hackerrank.com/challenges/grid-challenge/problem  
-100) Mark and Toys - https://www.hackerrank.com/challenges/mark-and-toys/problem
+100) Mark and Toys - https://www.hackerrank.com/challenges/mark-and-toys/problem  
+101) Flipping bits - https://www.hackerrank.com/challenges/flipping-bits/problem
