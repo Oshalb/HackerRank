@@ -101,4 +101,5 @@
 101) Flipping bits - https://www.hackerrank.com/challenges/flipping-bits/problem  
 102) Priyanka and Toys - https://www.hackerrank.com/challenges/priyanka-and-toys/problem  
 103) Sherlock and The Beast - https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem  
-104) Lonely Integer - https://www.hackerrank.com/challenges/lonely-integer/problem
+104) Lonely Integer - https://www.hackerrank.com/challenges/lonely-integer/problem  
+105) Jim and the Orders - https://www.hackerrank.com/challenges/jim-and-the-orders/problem
