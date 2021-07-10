@@ -104,4 +104,5 @@
 104) Lonely Integer - https://www.hackerrank.com/challenges/lonely-integer/problem  
 105) Jim and the Orders - https://www.hackerrank.com/challenges/jim-and-the-orders/problem  
 106) Game of Thrones - 1 - https://www.hackerrank.com/challenges/game-of-thrones/problem  
-107) Two Strings - https://www.hackerrank.com/challenges/two-strings/problem
+107) Two Strings - https://www.hackerrank.com/challenges/two-strings/problem  
+108) Mazimizing XOR - https://www.hackerrank.com/challenges/maximizing-xor/problem
