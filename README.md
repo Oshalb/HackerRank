@@ -105,4 +105,5 @@
 105) Jim and the Orders - https://www.hackerrank.com/challenges/jim-and-the-orders/problem  
 106) Game of Thrones - 1 - https://www.hackerrank.com/challenges/game-of-thrones/problem  
 107) Two Strings - https://www.hackerrank.com/challenges/two-strings/problem  
-108) Mazimizing XOR - https://www.hackerrank.com/challenges/maximizing-xor/problem
+108) Mazimizing XOR - https://www.hackerrank.com/challenges/maximizing-xor/problem  
+109) Sum vs XOR - https://www.hackerrank.com/challenges/sum-vs-xor/problem
