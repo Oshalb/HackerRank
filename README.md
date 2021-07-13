@@ -110,4 +110,5 @@
 110) Counting Sort 1 - https://www.hackerrank.com/challenges/countingsort1/problem  
 111) Counting Sort 2 - https://www.hackerrank.com/challenges/countingsort2/problem  
 112) 2D Array - https://www.hackerrank.com/challenges/2d-array/problem  
-113) Array: Left Rotation - https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem
+113) Array: Left Rotation - https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem  
+114) New Year Chaos - https://www.hackerrank.com/challenges/new-year-chaos/problem
