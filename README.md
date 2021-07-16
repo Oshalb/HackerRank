@@ -114,4 +114,5 @@
 114) New Year Chaos - https://www.hackerrank.com/challenges/new-year-chaos/problem  
 115) Recursion: Fibonacci Numbers - https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem  
 116) Hash Tables: Ransom Note - https://www.hackerrank.com/challenges/ctci-ransom-note/problem  
-117) Sorting: Bubble Sort - https://www.hackerrank.com/challenges/ctci-bubble-sort/problem
+117) Sorting: Bubble Sort - https://www.hackerrank.com/challenges/ctci-bubble-sort/problem  
+118) Permuting Two Arrays - https://www.hackerrank.com/challenges/two-arrays/problem
