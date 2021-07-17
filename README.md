@@ -116,4 +116,5 @@
 116) Hash Tables: Ransom Note - https://www.hackerrank.com/challenges/ctci-ransom-note/problem  
 117) Sorting: Bubble Sort - https://www.hackerrank.com/challenges/ctci-bubble-sort/problem  
 118) Permuting Two Arrays - https://www.hackerrank.com/challenges/two-arrays/problem  
-119) Balanced Brackets - https://www.hackerrank.com/challenges/balanced-brackets/problem
+119) Balanced Brackets - https://www.hackerrank.com/challenges/balanced-brackets/problem  
+120) Queues: A Tale of Two Stacks - https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem
