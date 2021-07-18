@@ -118,4 +118,5 @@
 118) Permuting Two Arrays - https://www.hackerrank.com/challenges/two-arrays/problem  
 119) Balanced Brackets - https://www.hackerrank.com/challenges/balanced-brackets/problem  
 120) Queues: A Tale of Two Stacks - https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem  
-121) Strings: Making Anagrams - https://www.hackerrank.com/challenges/ctci-making-anagrams/problem
+121) Strings: Making Anagrams - https://www.hackerrank.com/challenges/ctci-making-anagrams/problem  
+122) Sherlock and the Valid String - https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem
