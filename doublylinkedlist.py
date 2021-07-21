@@ -25,7 +25,9 @@ class DoublyLinkedList:
 
     def insert_into_sorted_list(self, data):
         node = Node(data)
-        if self.head.data > data:
+        if not self.head:
+            self.head = node
+        elif self.head.data > data:
             self.head.prev = node
             node.next = self.head
             self.head = node
