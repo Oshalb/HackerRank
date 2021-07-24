@@ -124,4 +124,5 @@
 124) Insert a node at a specific position in a linked list - https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem  
 125) Inserting a Node Into a Sorted Doubly Linked List - https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem  
 126) Reverse a doubly linked list - https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem  
-127) The Full Counting Sort - https://www.hackerrank.com/challenges/countingsort4/problem
+127) The Full Counting Sort - https://www.hackerrank.com/challenges/countingsort4/problem  
+128) Frequency Queries - https://www.hackerrank.com/challenges/frequency-queries/problem
