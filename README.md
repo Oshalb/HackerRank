@@ -126,4 +126,5 @@
 126) Reverse a doubly linked list - https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem  
 127) The Full Counting Sort - https://www.hackerrank.com/challenges/countingsort4/problem  
 128) Frequency Queries - https://www.hackerrank.com/challenges/frequency-queries/problem  
-129) The Maximum Subarray - https://www.hackerrank.com/challenges/maxsubarray/problem
+129) The Maximum Subarray - https://www.hackerrank.com/challenges/maxsubarray/problem  
+130) Almost Sorted - https://www.hackerrank.com/challenges/almost-sorted/problem
